@@ -8,5 +8,5 @@
 
 2. correccion de rumbo de una aeronave
 
-![imagenalg](imagenes/diagramal.png)
+![imagenalg](imagenes/diagramaz.png)
 
