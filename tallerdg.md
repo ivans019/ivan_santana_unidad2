@@ -28,11 +28,15 @@ tp	punto flotante	total a pagar
 ![imagenestaller](imagenes/diagrama3.png)
 
 4.
+
+
 NOMBRE	TIPO	DESCRIPCIÒN
 cantst	entero	cantidad estudiantes
 ppst	punto flotante	precio por estudiante
 pt	punto flotante	precio total
 <img width="380" height="97" alt="image" src="https://github.com/user-attachments/assets/682da41d-3b2d-4cdc-99c8-e5c0e0fcdd63" />
+
+
 
 
 
