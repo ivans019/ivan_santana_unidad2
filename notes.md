@@ -8,6 +8,6 @@ algoritmos
 7. Si la construcción del diagrama de flujo requiriera más de  una hoja, debemos utilizar los conectores adecuados y  enumerar las páginas correspondientes. 
 8. No puede llegar más de una línea a un símbolo  determinado
 
-
+en la imagen se presentas los símbolos usados en los diagramas de flujo
 
 ![Imagen1](./imagenes/Simbolos.jpg)
