@@ -8,10 +8,11 @@ en las siguientes imagenes se muestra el desarrollo de las actividades sobre dia
 
 2.  
 NOMBRE	TIPO	DESCRIPCIÒN
-cantlp	entero	cantidad lapices
+canlp	entero	cantidad lapices
 cl	punto flotante	costo lapices
 tp	punto flotante	total a pagar
-<img width="380" height="97" alt="image" src="https://github.com/user-attachments/assets/8d54836c-73c3-4449-bd31-fe8b970ead56" />
+<img width="380" height="97" alt="image" src="https://github.com/user-attachments/assets/7941fd74-0e5f-46ed-9230-f56eb4e8e126" />
+
 
 
 ![imagenestaller](imagenes/diagrama2.png)
